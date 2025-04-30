@@ -1,5 +1,5 @@
 # Ex-3(E) Largest Element in BST
-## DATE: 27/4/2025
+## DATE: 
 ## AIM:
 To Write a c program to find the largest value in a Binary Search Tree.
 
@@ -12,8 +12,8 @@ To Write a c program to find the largest value in a Binary Search Tree.
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Ragavan E
-RegisterNumber:  212223040160
+Developed by: MANIKUMAR D.K
+RegisterNumber:  212223230121
 */
 #include <stdio.h> #include <stdlib.h> struct node
 {
